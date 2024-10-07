@@ -18,7 +18,7 @@ Visit the live calculator: [https://palworldbreeding.us/](https://palworldbreedi
 
 ## How to Use
 
-1. Visit [https://palworldbreeding.us/](https://palworldbreeding.us/)
+1. Visit [Palworld Breeding Calculator](https://palworldbreeding.us/)
 2. Select a parent Pal or a child Pal (or both) from the dropdown menus
 3. Click "Search" to view the results
 4. Use the "Reset" button to start a new search
